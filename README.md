@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Nizam Uddin</h1>
 <h3 align="center">Professionalist of Hardware and Software Engineering</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abc555nnn&label=Profile%20views&color=0e75b6&style=flat" alt="abc555nnn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abc555nnn" alt="abc555nnn" /></a> </p>
+
+<img align="right" alt="coding" width="300" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 - 🔭 I’m currently working on **Creative Project about on Social Service**
 
